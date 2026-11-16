@@ -12,12 +12,12 @@ Esse site é destinado para comunidades em bairros de qualquer região.
 
 ## capturas de tela
 
-![alt text](<Captura de tela 2026-11-16 084912.png>)
+![alt text](</Capturas de tela/Captura de tela 2026-11-16 084912.png>)
 
-![alt text](<Captura de tela 2026-11-16 084934.png>) 
+![alt text](</Capturas de tela/Captura de tela 2026-11-16 084934.png>) 
 
-![alt text](<Captura de tela 2026-11-16 084957.png>) 
+![alt text](</Capturas de tela/Captura de tela 2026-11-16 084957.png>) 
 
-![alt text](<Captura de tela 2026-11-16 085007.png>) 
+![alt text](</Capturas de tela/Captura de tela 2026-11-16 085007.png>) 
 
-![alt text](<Captura de tela 2026-11-16 085030.png>)
+![alt text](</Capturas de tela/Captura de tela 2026-11-16 085030.png>)
