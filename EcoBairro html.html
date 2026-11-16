@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoBairro - Uso Consciente de Recursos</title>
+    <link rel="stylesheet" href="EcoBairro.css.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <h1 class="logo">Eco<span>Bairro</span></h1>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="#solucoes">Soluções</a></li>
+                    <li><a href="#calculadora">Simulador</a></li>
+                    <li><a href="Impacto.html">Impacto</a></li>
+                    <li><a href="criadordosite.html">Criador</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container hero-content">
+                <h2>Tecnologia Cidadã para Combater o Desperdício</h2>
+                <p>Economize água, energia e alimentos. Transforme sua casa ou pequeno negócio em um modelo de sustentabilidade local.</p>
+                <a href="#calculadora" class="btn-primary">Simular Economia</a>
+            </div>
+        </section>
+
+        <!-- Soluções Semânticas -->
+        <section id="solucoes" class="features">
+            <div class="container">
+                <h3 class="section-title">Nossos Pilares de Ação</h3>
+                <div class="grid">
+                    <article class="card">
+                        <div class="icon">💧</div>
+                        <h4>Gestão de Água</h4>
+                        <p>Tutoriais de captação de chuva e detecção de vazamentos invisíveis para residências.</p>
+                    </article>
+                    <article class="card">
+                        <div class="icon">⚡</div>
+                        <h4>Eficiência Energética</h4>
+                        <p>Diagnóstico simples para pequenos comércios reduzirem a conta de luz mudando hábitos.</p>
+                    </article>
+                    <article class="card">
+                        <div class="icon">🍎</div>
+                        <h4>Alimento Zero</h4>
+                        <p>Conexão entre feirantes locais e moradores para a redistribuição de alimentos fora do padrão comercial.</p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Interatividade com JavaScript -->
+        <section id="calculadora" class="calculator-section">
+            <div class="container">
+                <h3 class="section-title">Simulador de Impacto EcoBairro</h3>
+                <p class="subtitle">Descubra o quanto sua comunidade pode economizar em um mês eliminando pequenos desperdícios.</p>
+                
+                <form id="calc-form" class="calc-form">
+                    <div class="form-group">
+                        <label for="tipo-recurso">Recurso que deseja poupar:</label>
+                        <select id="tipo-recurso" required>
+                            <option value="agua">Água (Torneira pingando/dia)</option>
+                            <option value="energia">Energia (Lâmpada acesa à toa/hora)</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="quantidade">Quantidade (Ex: número de torneiras ou lâmpadas):</label>
+                        <input type="number" id="quantidade" min="1" placeholder="Ex: 3" required>
+                    </div>
+                    <button type="submit" class="btn-submit">Calcular Impacto</button>
+                </form>
+
+                <div id="resultado" class="resultado-box hidden">
+                    <h4>Resultado da sua Ação Cidadã:</h4>
+                    <p id="texto-resultado"></p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; 2026 EcoBairro - Tecnologia Cidadã. Desenvolvido para fins acadêmicos.</p>
+        </div>
+    </footer>
+
+    <script src="EcoBairro.javascript.js"></script>
+</body>
+</html>
