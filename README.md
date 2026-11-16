@@ -9,3 +9,15 @@ Esse site é destinado para comunidades em bairros de qualquer região.
 - A segunda página é a página que fala sobre o impacto que acontece no bairro com as economias de água e energia elétrica
 - Essa segunda página também mostra o impacto acumulado em 2026 e tem algumas histórias motivacionais e inspiradoras sobre as econômias que o site sugeri
 - Na terceira página são as informações do criador do site EcoBairro
+
+## capturas de tela
+
+![alt text](<Captura de tela 2026-11-16 084912.png>)
+
+![alt text](<Captura de tela 2026-11-16 084934.png>) 
+
+![alt text](<Captura de tela 2026-11-16 084957.png>) 
+
+![alt text](<Captura de tela 2026-11-16 085007.png>) 
+
+![alt text](<Captura de tela 2026-11-16 085030.png>)
