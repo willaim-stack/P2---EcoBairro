@@ -7,7 +7,7 @@ Esse site é destinado para comunidades em bairros de qualquer região.
 - Lá você escolhe o recurso que quer poupar e a quantidade de torneiras ou lâmpadas
 - Após clicar no botão calcular impacto o site calcula o quanto a comunidade pode economizar desligando lâmpadas que fican ligadas a toa ou arrumando torneiras vazando
 - A segunda página é a página que fala sobre o impacto que acontece no bairro com as economias de água e energia elétrica
-- Essa segunda página também mostra o impacto acumulado em 2026 e tem algumas histórias motivacionais e inspiradoras sobre as econômias que o site sugeri
+- Essa segunda página também mostra o impacto acumulado em 2026 e tem algumas histórias motivacionais e inspiradoras sobre as economias que o site sugeri
 - Na terceira página são as informações do criador do site EcoBairro
 
 ## capturas de tela
